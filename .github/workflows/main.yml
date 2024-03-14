@@ -14,4 +14,4 @@ jobs:
         server: digitalsch.cl
         username: ${{ secrets.ftp_user }}
         password: ${{ secrets.ftp_password }}
-        server-dir: public_html/test
+        server-dir: public_html/test/
